@@ -1,0 +1,5 @@
+{
+  "name": "MediFlow - Prescription Management System",
+  "description": "A modern, responsive web application for doctors to manage patients, visits, prescriptions, and lab tests with ease. Features a clean UI, multi-language support (English & Bengali), and an advanced prescription printing system.",
+  "requestFramePermissions": []
+}
